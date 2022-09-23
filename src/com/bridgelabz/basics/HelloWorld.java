@@ -20,7 +20,7 @@ public class HelloWorld {
 
 
     static boolean method3(){
-
+        System.out.println("method 3");
         return true;
     }
 
